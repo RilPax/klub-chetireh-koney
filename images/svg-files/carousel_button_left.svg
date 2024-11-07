@@ -1,0 +1,7 @@
+<svg width="44px" height="44px" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="button-left">
+        <circle cx="22" cy="22" r="22" transform="rotate(-180 22 22)" fill="currentColor"/>
+        <path fill="none" d="M24.538 30.462 16.077 22l8.461-8.462" stroke="#fff" stroke-width="2" stroke-linecap="square"/>
+    </symbol>
+</svg>
+
