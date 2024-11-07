@@ -1,0 +1,1 @@
+https://github.com/RilPax/klub-chetireh-koney.git
